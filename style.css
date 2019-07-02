@@ -1,0 +1,21 @@
+/**
+* THE WAY HOW TO CALL PARENT THEME STYLESHEET IF NEEDED THOUGH IT IS NOT THE PERFECT WAY TO DO THAT
+/ @import url('../twentyeleven/style.css');
+*/
+/**
+*------------------------------------------------------------------------
+*   :: THIS CODE IS FOR CHILD THEME
+*------------------------------------------------------------------------
+Theme Name: QUICK START CHILD THEME
+Theme URI: http://www.theinfotechs.com
+Description: Twenty Eleven child theme with some new features like ...
+Version: 0.0.0.1
+Author: Md. Abul Kalam Azad
+Author URI: http://wwww.theinfotechs.com
+Template: parenthemefoldername
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  twenty-fifteen-child
+*------------------------------------------------------------------------
+*/
